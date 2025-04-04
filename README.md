@@ -1,2 +1,2 @@
 # Make Healthcare Accessible
-This was one of my earlier projects when I first learned how to code. The website focuses on advocating for healthcare accessibility, implementing videos, fact generator, and a script generator via HTML, CSS, and Javascript to encourage learning and advocacy.
+This was one of my earlier projects when I first learned how to code. The website focuses on advocating for healthcare accessibility, implementing videos, fact generator, and a script generator via HTML, CSS, and Javascript to encourage learning and advocacy. This project taught me how to use event listeners, link files, and fun HTML/CSS uses (I was able to make a gradient background with CSS and a video grid with HTML/CSS).
